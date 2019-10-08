@@ -1,0 +1,19 @@
+{
+  "name": "es-phet_html",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "phet_es",
+  "moddir": null,
+  "start_url": null,
+  "title": "PhET en Español",
+  "logo_url": "phet-logo-48x48.png",
+  "description": "Experimentos interactivos de ciencia / matemáticas, para ayudarlo a visualizar conceptos básicos.",
+  "extra_description": null,
+  "extra_html": "es-phet_html.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

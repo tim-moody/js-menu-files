@@ -1,0 +1,19 @@
+{
+  "name": "en-gutenberg_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "gutenberg_en_all",
+  "moddir": null,
+  "start_url": null,
+  "title": "Project Gutenberg Library in English",
+  "logo_url": "Project_Gutenberg_logo.png",
+  "description": "The first producer of free ebooks.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

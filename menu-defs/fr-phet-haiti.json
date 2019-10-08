@@ -1,0 +1,19 @@
+{
+  "name": "fr-phet-haiti",
+  "lang": "fr",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "fr-phet-haiti",
+  "start_url": null,
+  "title": "PhET Physics - Haiti",
+  "logo_url": "fr-phet-haiti.png",
+  "description": "Java physics simulations in French (or maybe they're really in English? I can't run them so I don't actually know). Includes Java for Windows.",
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

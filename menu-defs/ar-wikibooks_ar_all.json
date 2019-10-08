@@ -1,0 +1,19 @@
+{
+  "name": "ar-wikibooks_ar_all",
+  "lang": "ar",
+  "intended_use": "zim",
+  "zim_name": "wikibooks_ar_all",
+  "moddir": null,
+  "start_url": null,
+  "title": "ويكيبيديا باللغة العربية",
+  "logo_url": "300px-Wikibooks-logo.svg.png",
+  "description": "يحتوي مشروع ويكي الكتب على أكثر من ألف (1000)  فصل في مجالات مختلفة ومتنوعة للثقافة البشرية كتب مفتوحة لعالم حر يستطيع الجميع تحريرها",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "kn-healthphone",
+  "lang": "kn",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "kn-healthphone",
+  "start_url": null,
+  "title": "HealthPhone Medical Video Collection in Kannada",
+  "logo_url": "healthphone.jpg",
+  "description": "ಸಂಗ್ರಹ ವಿವಿಧ ಆರೋಗ್ಯ ವಿಷಯಗಳ ಬಗ್ಗೆ ವೀಡಿಯೊಗಳನ್ನು .",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

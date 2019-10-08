@@ -1,0 +1,19 @@
+{
+  "name": "es-guatemala",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-guatemala",
+  "start_url": null,
+  "title": "Coleccion Educative Guatemala",
+  "logo_url": "es-guatemala.png",
+  "description": "Cientos de materiales educativos y de referencia para maestros, estudiantes y padres. Aunque gran parte de ellos están enfocados en la sociedad y comunidad educativa guatemalteca su valor educativo se extiende a todo el mundo hispano.",
+  "extra_description": null,
+  "extra_html": "es-guatemala.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

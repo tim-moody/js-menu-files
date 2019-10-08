@@ -1,0 +1,19 @@
+{
+  "name": "en-wikipedia_kn_medicine",
+  "lang": "kn",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_kn_medicine",
+  "moddir": null,
+  "start_url": null,
+  "title": "Medical Wikipedia in Kannada",
+  "logo_url": "medwiki.png",
+  "description": "",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

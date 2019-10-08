@@ -1,0 +1,19 @@
+{
+  "name": "empty",
+  "lang": null,
+  "intended_use": null,
+  "zim_name": null,
+  "moddir": null,
+  "start_url": null,
+  "title": "only has a title",
+  "logo_url": null,
+  "description": null,
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

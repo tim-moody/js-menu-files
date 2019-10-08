@@ -1,0 +1,19 @@
+{
+  "name": "es-medline_plus",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-medline_plus",
+  "start_url": "spanish/",
+  "title": "Enciclopedia Ilustrada de la Salud",
+  "logo_url": "es-medline_plus.png",
+  "description": "La Enciclopedia Ilustrada de la Salud (Health Illustrated Encyclopedia) incluye más de 4.000 artículos acerca de enfermedades, exámenes, síntomas, lesiones y procedimientos quirúrgicos. También contiene una biblioteca extensa de fotografías médicas e ilustraciones.",
+  "extra_description": "",
+  "extra_html": "es-medline_plus.html",
+  "footnote": "Tamaño: 147M, Artículos: 4000+, Fecha: enero 2017",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

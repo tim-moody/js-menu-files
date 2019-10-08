@@ -1,0 +1,19 @@
+{
+  "name": "es-gutenberg_es_all",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "gutenberg_es_all",
+  "moddir": null,
+  "start_url": null,
+  "title": "Project Gutenberg Library en Español",
+  "logo_url": "Project_Gutenberg_logo.png",
+  "description": "El primer productor de libros electrónicos gratuitos.<BR><BR>Proyecto Gutenberg ofrece más de 54.000 libros electrónicos gratuitos: elija entre libre epub libros, libre kindle libros, descargarlos o leer en línea. Usted encontrará la gran literatura del mundo aquí, especialmente las obras más antiguas para las que el copyright ha expirado. Los digitalizamos y los revisamos diligentemente con la ayuda de miles de voluntarios.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

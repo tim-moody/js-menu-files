@@ -1,0 +1,19 @@
+{
+  "name": "es-soluciones",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-soluciones",
+  "start_url": null,
+  "title": "Soluciones Practicas",
+  "logo_url": "es-soluciones.png",
+  "description": "Excelente colección de materiales educativos y de referencia para el desarrollo sostenible de la población de menores recursos. Incluye cientos de documentos especializados sobre detallados procesos y metodologías de gran valor educativo para una comunidad en desarrollo. Aunque gran parte de los documentos y guías están enfocados en Perú, la gran mayoría de su conocimiento es aplicable a cualquier comunidad.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": "Tamaño: 1.2G, PDFs: 432, Fecha: enero 2017",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

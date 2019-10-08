@@ -1,0 +1,19 @@
+{
+  "name": "en-college-credit-courses",
+  "lang": "en",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "en-rachelcourses",
+  "start_url": null,
+  "title": "College Credit Courses",
+  "logo_url": "college-credit-courses.jpg",
+  "description": "A collection of online courses in the areas of mathematics, computer science, economics, and game design from MIT.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

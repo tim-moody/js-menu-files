@@ -1,0 +1,19 @@
+{
+  "name": "de-kalite",
+  "lang": "es",
+  "intended_use": "kalite",
+  "zim_name": null,
+  "moddir": "de-kalite",
+  "start_url": null,
+  "title": "Khan Academy in German",
+  "logo_url": "es-kalite.png",
+  "description": "KA Lite videos and lessons in German.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 7.6G, Videos: 831, Quizzes: 4,101, Subtitles: 459, August 2017",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "fr-gutenberg_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "gutenberg_fr_all",
+  "moddir": null,
+  "start_url": null,
+  "title": "Project Gutenberg Library en français (epub, html, pdf)",
+  "logo_url": "Project_Gutenberg_logo.png",
+  "description": "Le projet Gutenberg offre plus de 58 000 livres gratuits. Choisissez parmi les livres électroniques epub et Kindle gratuits, téléchargez-les ou lisez-les en ligne. Vous trouverez ici la plus grande littérature du monde, avec un focus sur des œuvres plus anciennes pour lesquelles le copyright américain a expiré.",
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

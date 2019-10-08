@@ -1,0 +1,19 @@
+{
+  "name": "en-GCF2015",
+  "lang": "en",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "en-GCF2015",
+  "start_url": null,
+  "title": "GCF2015",
+  "logo_url": "en-GCF2015.png",
+  "description": "Illustrated articles and videos focusing on technology, job training, reading, and math skills.",
+  "extra_description": null,
+  "extra_html": "en-GCF2015.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

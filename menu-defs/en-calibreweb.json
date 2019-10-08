@@ -1,0 +1,19 @@
+{
+  "name": "en-calibreweb",
+  "lang": "en",
+  "intended_use": "webroot",
+  "zim_name": null,
+  "moddir": "",
+  "start_url": "books",
+  "title": "Calibre-Web",
+  "logo_url": "calibreweb.png",
+  "description": "Electronic Books for your local community.",
+  "extra_description": null,
+  "extra_html": "en-calibreweb.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "es-ap_didact",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-ap_didact",
+  "start_url": null,
+  "title": "Aplicaciones Didacticas",
+  "logo_url": "es-ap_didact.gif",
+  "description": "Varias actividades didactics de www.aplicaciones.info contribuido por Arturo Ramo",
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

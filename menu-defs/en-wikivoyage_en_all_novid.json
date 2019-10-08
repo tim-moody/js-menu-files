@@ -1,0 +1,19 @@
+{
+  "name": "en-wikivoyage_en_all_novid",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikivoyage_en_all_novid",
+  "moddir": null,
+  "start_url": "",
+  "title": "Wikivoyage",
+  "logo_url": "en-wikivoyage.png",
+  "description": "The \"Wikipedia of travel guides\" for travel destinations and travel topics, written by volunteer authors.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

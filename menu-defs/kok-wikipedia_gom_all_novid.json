@@ -1,0 +1,19 @@
+{
+  "name": "kok-wikipedia_gom_all_novid",
+  "lang": "gom",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_gom_all_novid",
+  "moddir": null,
+  "start_url": null,
+  "title": "Konknnint Wikipedia",
+  "logo_url": "Wikipedia-logo-v2-gom.png",
+  "description": "Konknni Wikipediacheo soglleo lekh interneta vinnem ani sodunk zata toslem rupan. Mozkur open access asa, mhonnge khors nastanam download korunk, porot vaprunk, vantunk ani tacher anink zodunk zata. Mellun fudlem avrutti anik-ui borem korum-ia.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

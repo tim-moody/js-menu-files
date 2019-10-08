@@ -1,0 +1,19 @@
+{
+  "name": "en-wikiversity_en_all_novid",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikiversity_en_all_novid",
+  "moddir": null,
+  "start_url": "",
+  "title": "Wikiversity",
+  "logo_url": "en-wikiversity.png",
+  "description": "Devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning.",
+  "extra_description": "Seeks to support OERs (open educational resources) more than traditional/formal content.",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

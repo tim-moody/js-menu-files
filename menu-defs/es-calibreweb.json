@@ -1,0 +1,19 @@
+{
+  "name": "es-calibreweb",
+  "lang": "es",
+  "intended_use": "webroot",
+  "zim_name": null,
+  "moddir": "",
+  "start_url": "books",
+  "title": "Calibre-Web",
+  "logo_url": "calibreweb.png",
+  "description": "Libros electrónicos para tu comunidad.",
+  "extra_description": "Maestros y bibliotecarios puede agregar nuevos libros, organizar colecciones, y borrar libros si el servidor de Internet-in-a-Box se empieza a llenar.",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "en-wikipedia_en_computer_novid",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_wikipedia_en_computer_novid",
+  "moddir": null,
+  "start_url": null,
+  "title": "Wikipedia Technology Topics",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "A broad but computing-focused subset of Wikipedia for California's Code.7370 prison coding initiative.",
+  "extra_description": null,
+  "extra_html": "en-wikipedia_en_computer_novid.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

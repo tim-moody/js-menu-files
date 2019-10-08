@@ -1,0 +1,19 @@
+{
+  "name": "es-wikipedia_es_medicine_novid",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_es_medicine_novid",
+  "moddir": null,
+  "start_url": null,
+  "title": "Enciclopedia Médica Offline de Wikipedia",
+  "logo_url": "medwiki.png",
+  "description": "Se trata de una colección completa de todos los temas de Wikipedia sobre los cuidados relacionados con la salud, la anatomía y la medicación, en un formato que no necesita conexión a Internet.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

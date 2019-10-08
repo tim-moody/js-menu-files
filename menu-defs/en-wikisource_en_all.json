@@ -1,0 +1,19 @@
+{
+  "name": "en-wikisource_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikisource_en_all",
+  "moddir": null,
+  "start_url": null,
+  "title": "Wiki Source",
+  "logo_url": "en-wikisource.png",
+  "description": "A free English Library from the Wikimedia Foundation.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

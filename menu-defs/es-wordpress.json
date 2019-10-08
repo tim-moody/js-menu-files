@@ -1,0 +1,19 @@
+{
+  "name": "es-wordpress",
+  "lang": "es",
+  "intended_use": "webroot",
+  "zim_name": null,
+  "moddir": "",
+  "start_url": "wordpress",
+  "title": "WordPress",
+  "logo_url": "wordpress-icon.png",
+  "description": "¡Escriba un artículo personal (o publicación de blog de revista) para compartir con su comunidad!",
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

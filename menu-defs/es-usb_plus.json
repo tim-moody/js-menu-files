@@ -1,0 +1,19 @@
+{
+  "name": "es-usb_plus",
+  "lang": "es",
+  "intended_use": "webroot",
+  "zim_name": null,
+  "moddir": "",
+  "start_url": "usb",
+  "title": "Inserte una Unidad USB para Publicar Archivos Aquí",
+  "logo_url": "content.jpg",
+  "description": "Maestros: El contenido de su clase (PDF, fotos, etc) <a href=/usb>Aparecerán Inmediatamente Aquí</a> después de insertar una unidad USB o disco duro USB en el servidor de Internet-in-a-Box.",
+  "extra_description": "Por último: no dude en retirar su memoria USB en cualquier momento, después de que los usuarios de Wi-Fi hayan descargado lo que necesiten.",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

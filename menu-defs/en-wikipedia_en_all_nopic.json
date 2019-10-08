@@ -1,0 +1,19 @@
+{
+  "name": "en-wikipedia_en_all_nopic",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_all_nopic",
+  "moddir": null,
+  "start_url": null,
+  "title": "Wikipedia in English without Pictures or Videos",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "Searchable encyclopedia of 5,468,599 articles (without pictures) from August 2017.",
+  "extra_description": null,
+  "extra_html": "en-wikipedia_en_all_nopic.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "en-wikisource_en_all_novid",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikisource_en_all_novid",
+  "moddir": null,
+  "start_url": "",
+  "title": "Wikisource",
+  "logo_url": "en-wikisource.png",
+  "description": "The Free Library of historical texts and primary source documents, that didn't quite fit in Wikipedia.",
+  "extra_description": "Many were scanned in from their paper originals.",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

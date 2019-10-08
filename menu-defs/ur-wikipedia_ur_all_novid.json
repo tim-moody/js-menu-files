@@ -1,0 +1,19 @@
+{
+  "name": "ur-wikipedia_ur_all_novid",
+  "lang": "ur",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_ur_all_novid",
+  "moddir": null,
+  "start_url": null,
+  "title": "اردو زبان میں ویکیپیڈیا",
+  "logo_url": "Wikipedia-logo-v2-ur.png",
+  "description": "آف لائن اور تلاش کی سہولت کے ساتھ اردو ویکیپیڈیا کے تمام مضامین کا مجموعہ۔ مواد تک آزادانہ رسائی، مطلب آپ اسے ڈائنلوڈ، مکرر استعمال اور اس کا اشتراک کر سکتے ہیں۔ ہمارے ساتھ شامل ہوں اور اگلے نسخے کو اس سے بھی بہتر بنائیں",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

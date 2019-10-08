@@ -1,0 +1,19 @@
+{
+  "name": "en-asst_medical",
+  "lang": "en",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "en-asst_medical",
+  "start_url": null,
+  "title": "Medical Information",
+  "logo_url": "en-asst_medical.png",
+  "description": "General Medical Information from fastonline.org",
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

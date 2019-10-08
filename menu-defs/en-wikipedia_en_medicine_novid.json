@@ -1,0 +1,19 @@
+{
+  "name": "en-wikipedia_en_medicine_novid",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_medicine_novid",
+  "moddir": null,
+  "start_url": null,
+  "title": "Medical Encyclopedia in English",
+  "logo_url": "medwiki.png",
+  "description": "A complete collection of all health care, anatomy, and medication related topics from Wikipedia in an offline format.<BR>Like Wikipedia all content is open access, meaning that it is free to download, reuse, share, and build upon.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

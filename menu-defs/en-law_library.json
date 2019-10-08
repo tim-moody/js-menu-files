@@ -1,0 +1,19 @@
+{
+  "name": "en-law_library",
+  "lang": "en",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "en-law_library",
+  "start_url": null,
+  "title": "Oregon Law Library 2014",
+  "logo_url": "en-law_library.gif",
+  "description": "",
+  "extra_description": null,
+  "extra_html": "en-law_library.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

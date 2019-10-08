@@ -1,0 +1,19 @@
+{
+  "name": "es-calibre-mx",
+  "lang": "es",
+  "intended_use": "calibre",
+  "zim_name": null,
+  "moddir": null,
+  "start_url": null,
+  "title": "Calibre para Uso en México",
+  "logo_url": "calibre2.png",
+  "description": "Libros Electrónicos para su comunidad local.<br><br>&nbsp; &nbsp; Usuario: <b>mx</b><br>&nbsp; &nbsp; Contraseña: <b>mx</b><br><br>Los bibliotecarios pueden usar Calibre para agregar libros nuevos &mdash; y eliminar libros si su Internet-in-a-Box está lleno.",
+  "extra_description": null,
+  "extra_html": "es-calibre-mx.html",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

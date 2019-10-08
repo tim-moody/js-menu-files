@@ -1,0 +1,19 @@
+{
+  "name": "de-wikisource_de_all_novid",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "wikisource_de_all_novid",
+  "moddir": null,
+  "start_url": "",
+  "title": "Wikisource in German",
+  "logo_url": "en-wikisource.png",
+  "description": "Aus Wikisource, der freien Quellensammlung.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "es-dr_min_salud",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-dr_min_salud",
+  "start_url": null,
+  "title": "Guías de la Salud de la República Dominicana",
+  "logo_url": "logomsp.fw.png",
+  "description": "",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "te-healthphone_te",
+  "lang": "te",
+  "intended_use": "webroot",
+  "zim_name": null,
+  "moddir": "",
+  "start_url": "healthphone/te",
+  "title": "తెలుగు (Telugu): HealthPhone హెల్త్ అండ్ న్యూట్రిషన్ వీడియో కలెక్షన్ & యాప్స్",
+  "logo_url": "healthphone.jpg",
+  "description": "వీడియో సూచన లైబ్రరీ; కుటుంబాలు మరియు కమ్యూనిటీల కోసం మంచి తల్లి మరియు శిశు ఆరోగ్యం మరియు పోషకాహార విధానాలకు మార్గదర్శకత్వం చేయండి.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

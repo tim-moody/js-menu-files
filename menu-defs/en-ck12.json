@@ -1,0 +1,19 @@
+{
+  "name": "en-ck12",
+  "lang": "en",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "en-ck12",
+  "start_url": null,
+  "title": "CK-12 California Textbooks",
+  "logo_url": "en-ck12.jpg",
+  "description": "High quality PDF textbooks used by 38,000 schools.",
+  "extra_description": null,
+  "extra_html": "en-ck12.html",
+  "footnote": "Size: 1.2G, PDFs: 49, Date: August 2017",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

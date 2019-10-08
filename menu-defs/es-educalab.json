@@ -1,0 +1,19 @@
+{
+  "name": "es-educalab",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-educalab",
+  "start_url": null,
+  "title": "educaLAB",
+  "logo_url": "es-educalab.png",
+  "description": "Los recursos al que tendrá acceso se encuentran en la colección Histórico de Recursos del Ministerio de Educación, Cultura y Deporte de España en Educalab cuyo objetivo es apoyar a los docentes y en sentido amplio a todo el sistema educativo español desde el conocimiento y la cercanía, desde los datos y el análisis y desde la investigación, la experimentación y la innovación.",
+  "extra_description": "",
+  "extra_html": "es-educalab.html",
+  "footnote": "Tamaño: 841M, PDFs: 77, Fecha: agosto 2017",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

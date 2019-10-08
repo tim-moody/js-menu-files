@@ -1,0 +1,19 @@
+{
+  "name": "es-dr_SNS",
+  "lang": "es",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "es-dr_SNS",
+  "start_url": null,
+  "title": "Guías para Unidades de Atención Primaria (UNAP)",
+  "logo_url": "Servicio-Nacional-de-Salud-RD-300x124.png",
+  "description": "Guías y protocolos para la atención de primer nivel del Servicio Nacional de Salud (SNS) y el antes Consejo Nacional de Seguridad Social (CNSS) de la República Dominicana.",
+  "extra_description": null,
+  "extra_html": null,
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

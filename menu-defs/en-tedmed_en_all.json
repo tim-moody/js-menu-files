@@ -1,0 +1,19 @@
+{
+  "name": "en-tedmed_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "tedmed_en_all",
+  "moddir": null,
+  "start_url": null,
+  "title": "TEDMED Medical TED Talks",
+  "logo_url": "TED319335.gif",
+  "description": "502 videos examining the future of health and medicine.<BR>Conferences on Technology, Entertainment, and Design: these are professionally produced short lectures from 2009-2014.",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

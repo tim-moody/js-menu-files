@@ -1,0 +1,19 @@
+{
+  "name": "en-external",
+  "lang": "en",
+  "intended_use": "external",
+  "zim_name": null,
+  "moddir": null,
+  "start_url": "https://github.com/iiab/iiab/wiki",
+  "title": "Sample External Link",
+  "logo_url": "200px-Icon-round-Question_mark.svg.png",
+  "description": "Some Description in the selected language",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

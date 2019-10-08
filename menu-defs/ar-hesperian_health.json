@@ -1,0 +1,19 @@
+{
+  "name": "ar-hesperian_health",
+  "lang": "ar",
+  "intended_use": "html",
+  "zim_name": null,
+  "moddir": "ar-hesperian_health",
+  "start_url": null,
+  "title": "دليل هسبريان الصحي",
+  "logo_url": "hesperianlogo.png",
+  "description": "دليل هسبريان الصحة هو مصدر غير ربحي للمعلومات الصحية و التثقيف الصحي لدعم الأفراد و المجتمعات في نضالهم لتحقيق الحق في الصحة. نحن نطور مواد سهلة القراءة يتم إنتاجها في العديد من اللغات",
+  "extra_description": null,
+  "extra_html": "",
+  "footnote": null,
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

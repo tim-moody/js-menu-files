@@ -1,0 +1,19 @@
+{
+  "name": "es-wikibooks_es_all_novid",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "wikibooks_es_all_novid",
+  "moddir": null,
+  "start_url": null,
+  "title": "Wikilibros",
+  "logo_url": "es-wikibooks.png",
+  "description": "Una colección de libros de texto gratuitos para uso educativo, creado y mantenido por los usuarios, para los usuarios.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "edit_status": null,
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}
