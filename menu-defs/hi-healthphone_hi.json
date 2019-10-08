@@ -2,18 +2,12 @@
   "name": "hi-healthphone_hi",
   "lang": "hi",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "healthphone/hi",
   "title": "हिन्दी (Hindi): हेल्थफोन स्वास्थ्य और पोषण वीडियो संग्रह और ऐप्स",
   "logo_url": "healthphone.jpg",
   "description": "एक वीडियो संदर्भ पुस्तकालय; परिवारों और समुदायों के लिए बेहतर मातृ एवं बाल स्वास्थ्य और पोषण प्रथाओं के लिए मार्गदर्शिका",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

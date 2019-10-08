@@ -3,17 +3,12 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikihow_en",
-  "moddir": null,
-  "start_url": null,
   "title": "wikiHow",
   "logo_url": "es-wikihow.png",
   "description": "Illustrated how-to guides, on practical and personal/life topics.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

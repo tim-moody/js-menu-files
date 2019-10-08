@@ -2,18 +2,12 @@
   "name": "ml-healthphone_ml",
   "lang": "ml",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "healthphone/ml",
   "title": "മലയാളം (Malayalam): HealthPhone ആരോഗ്യവും ന്യൂട്രിഷൻ വീഡിയോ കളക്ഷൻ & ആപ്സ്",
   "logo_url": "healthphone.jpg",
   "description": "ഒരു വീഡിയോ റഫറൻസ് ലൈബ്രറി; കുടുംബങ്ങൾക്കും സമൂഹങ്ങൾക്കും മികച്ച മാതൃശിശുവും ശിശു ആരോഗ്യവും പോഷകാഹാര രീതികളും നയിക്കുക.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

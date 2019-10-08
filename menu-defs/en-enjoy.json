@@ -2,18 +2,10 @@
   "name": "en-enjoy",
   "lang": "en",
   "intended_use": "info",
-  "zim_name": null,
   "moddir": "usb",
-  "start_url": null,
   "title": "Enjoy",
   "logo_url": "content.jpg",
   "description": "Enjoy exploring and building your library! volunteer@unleashkids.org",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

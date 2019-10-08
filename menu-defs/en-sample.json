@@ -2,18 +2,12 @@
   "name": "en-sample",
   "lang": "en",
   "intended_use": "info",
-  "zim_name": null,
   "moddir": "",
-  "start_url": null,
   "title": "Put a short, one line name for the item here. Ideally it would be unique.",
   "logo_url": "hamburger.png",
   "description": "Put a full description of the item here, but not more than one paragraph.",
   "extra_description": "If there is more description, put it here.",
-  "extra_html": null,
   "footnote": "You can put catalog type information here like number of pdfs or size. Also you can use the ##SIZE## and other substitution fields for zims.",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

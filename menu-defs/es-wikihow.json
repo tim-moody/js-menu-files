@@ -2,7 +2,6 @@
   "name": "es-wikihow",
   "lang": "es",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "es-wikihow",
   "start_url": "content/Portada.html",
   "title": "wikiHow",
@@ -11,9 +10,6 @@
   "extra_description": "",
   "extra_html": "es-wikihow.html",
   "footnote": "Tamaño: 13G, Artículos: 59796, Medios: 551384, Fecha: Febrero 2018",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

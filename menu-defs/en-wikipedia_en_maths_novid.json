@@ -3,17 +3,10 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikipedia_en_maths_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikipedia Math",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Math articles from Wikipedia.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

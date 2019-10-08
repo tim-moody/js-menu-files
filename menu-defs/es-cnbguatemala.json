@@ -2,18 +2,10 @@
   "name": "es-cnbguatemala",
   "lang": "es",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "es-cnbguatemala",
-  "start_url": null,
   "title": "Currículum Nacional Base Guatemala",
   "logo_url": "es-cnbguatemala.png",
   "description": "El Currículum Nacional Base (CNB) del Ministerio de Educación de Guatemala (MINEDUC) es un esfuerzo monumental. Ha pasado una década desde que el MINEDUC inició la elaboración de un currículum basado en competencias en 2004, y en ese lapso se han desarrollado lineamientos, mallas curriculares y elementos de evaluación que tocan a todos los niveles desde el Inicial hasta el Bachillerato.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -3,17 +3,9 @@
   "lang": "es",
   "intended_use": "zim",
   "zim_name": "wikipedia_es_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikipedia en Español",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Wikipedia es la enciclopedia más grande del mundo, creado, moderado, y editado por los usuarios para los usuarios. Esta enciclopedia tiene más de 1,2 millones de artículos con ilustraciones y está libremente disponible para cualquier persona, en cualquier lugar. Esta versión completa de búsqueda fue proporcionado por Kiwix.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

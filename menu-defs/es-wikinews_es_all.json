@@ -3,17 +3,10 @@
   "lang": "es",
   "intended_use": "zim",
   "zim_name": "wikinews_es_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikinoticias",
   "logo_url": "wikinews-logo.png",
   "description": "La fuente de noticias libres en la que todos pueden ser reporteros.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

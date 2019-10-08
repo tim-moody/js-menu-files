@@ -3,17 +3,12 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikispecies_en_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikispecies",
   "logo_url": "102px-Wikispecies_001.png",
   "description": "Colorful species directory for young biologists, and environmental education.",
   "extra_description": "It covers Animalia, Plantae, Fungi, Bacteria, Archaea, Protista and all other forms of life.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

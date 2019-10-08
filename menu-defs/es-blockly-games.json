@@ -2,7 +2,6 @@
   "name": "es-blockly-games",
   "lang": "es",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "es-blockly-games",
   "start_url": "blockly-games/es/index.html",
   "title": "Blockly Games",
@@ -11,9 +10,6 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Tamaño: 4.4M, Fecha: agosto 2017",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

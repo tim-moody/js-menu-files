@@ -3,17 +3,11 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wiktionary_en_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Wiktionary",
   "logo_url": "220px-Wiktionary-logo.svg.png",
   "description": "Dictionary from Wikipedia, that aims to describe all words of all languages using definitions and descriptions in English.",
-  "extra_description": null,
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

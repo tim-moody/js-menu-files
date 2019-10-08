@@ -3,17 +3,10 @@
   "lang": "ha",
   "intended_use": "zim",
   "zim_name": "wikipedia_ha_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikipedia a Hausa",
   "logo_url": "Wikipedia-logo-v2-ha.png",
   "description": "Cikakkun mukaloli akan kiwon lafiya daga Hausa Wikipedia cikin sauki ba tare da yanar gizo ba. Dukkan mukaloli kyauta ne, kowa zai iya amfani dasu, ya saukar a wayar sa, ya kuma rarraba dan amfanin wasu. Ku hada hannu damu domin inganta su.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

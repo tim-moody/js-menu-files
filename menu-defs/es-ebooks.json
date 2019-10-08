@@ -2,18 +2,13 @@
   "name": "es-ebooks",
   "lang": "es",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "es-ebooks",
-  "start_url": null,
   "title": "Grandes Libros del Mundo",
   "logo_url": "es-ebooks.jpg",
   "description": "Bienvenido a Grandes Libros del Mundo, una selección de más de 300 libros en Español, publicada por el Proyecto Gutenberg, incluyendo descripciones de Wikipedia, clasificados por categoría y con buscador de texto.",
   "extra_description": "",
   "extra_html": "es-ebooks.html",
   "footnote": "Tamaño: 276M, Libros: 344, Fecha: enero 2017",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -2,18 +2,10 @@
   "name": "en-understanding_algebra",
   "lang": "en",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "en-understanding_algebra",
-  "start_url": null,
   "title": "Understanding Algebra",
   "logo_url": "en-understanding_algebra.png",
   "description": "",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -3,17 +3,10 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "raspberrypi.stackexchange.com_eng_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Raspberry Pi Stack Exchange",
   "logo_url": "stackoverflow3.png",
   "description": "Q&A for users and developers of hardware and software for Raspberry Pi.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

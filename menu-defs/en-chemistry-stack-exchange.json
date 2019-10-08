@@ -3,17 +3,10 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "chemistry.stackexchange.com_eng_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Chemistry Stack Exchange",
   "logo_url": "stackoverflow3.png",
   "description": "Q&A for scientists, academics, teachers, and students in the field of chemistry.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

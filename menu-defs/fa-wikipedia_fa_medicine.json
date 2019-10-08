@@ -3,17 +3,10 @@
   "lang": "fa",
   "intended_use": "zim",
   "zim_name": "wikipedia_fa_medicine",
-  "moddir": null,
-  "start_url": null,
   "title": "فرهنگنامه پزشکی به فارسی",
   "logo_url": "medwiki.png",
   "description": "مجموعه کاملی از مطالب و موضوعات مربوط به بهداشت، پزشکی، کالبد‌شناسی (آناتومی)، و داروها برگرفته شده از دانشنامه آزاد ویکیپدیا. <BR>تمام مطالب این فرهنگنامه همچون ویکیپدیا، به‌صورت آزاد و به‌شکل ‘آفلاین’ قابل دسترسی است و می‌توان آن‌ها را به‌طور رایگان استفاده کرد، دانلود کرد، همرسانی کرد، یا مطالب جدیدی را به آن افزود.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

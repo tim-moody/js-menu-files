@@ -2,18 +2,12 @@
   "name": "en-oerafrica-reading",
   "lang": "en",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "en-oerafrica-reading",
   "start_url": "GSG_3_index.html",
   "title": "OER Africa - Reading",
   "logo_url": "OER-Logo_400x400.jpg",
   "description": "Reading is an essential skill for all of us and developing our skills in reading is a good investment. This unit is packed with practical activities which are aimed at making reading more enjoyable and rewarding. This unit also includes sections on how to read actively and critically.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -2,7 +2,6 @@
   "name": "en-saylor",
   "lang": "en",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "en-saylor",
   "start_url": "content/www.saylor.org/books.html",
   "title": "Saylor Academy Textbooks",
@@ -11,9 +10,6 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: 4.3G, Textbooks: 104, HTML: 81, PDFs: 102, docx: 82, doc: 4, Date: August 2017",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

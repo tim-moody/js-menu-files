@@ -2,18 +2,13 @@
   "name": "en-feed-the-monster",
   "lang": "en",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "en-feed-the-monster",
-  "start_url": null,
   "title": "Feed the Monster",
   "logo_url": "en-feed-the-monster_logo.png",
   "description": "Feed The Monster teaches your child the fundamentals of reading. Collect monster eggs and feed them letters so they can grow into new friends!",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: 38M, Date: July 2018",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

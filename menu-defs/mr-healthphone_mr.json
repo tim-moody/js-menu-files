@@ -2,18 +2,12 @@
   "name": "mr-healthphone_mr",
   "lang": "mr",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "healthphone/mr",
   "title": "मराठी (Marathi): हेल्पफोन आरोग्य आणि पोषण व्हिडिओ संग्रह आणि अॅप्स",
   "logo_url": "healthphone.jpg",
   "description": "एक व्हिडिओ संदर्भ ग्रंथालय; कुटुंब आणि समुदायांसाठी चांगल्या माता व बालकांच्या आरोग्यासाठी आणि पोषण पद्धतींसाठी मार्गदर्शन.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

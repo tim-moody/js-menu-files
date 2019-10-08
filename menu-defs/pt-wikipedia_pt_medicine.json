@@ -3,17 +3,9 @@
   "lang": "pt",
   "intended_use": "zim",
   "zim_name": "wikipedia_pt_medicine",
-  "moddir": null,
-  "start_url": null,
   "title": "Enciclopédia Médica em Português",
   "logo_url": "medwiki.png",
   "description": "Colectânea de todos os tópicos da Wikipédia relacionados com saúde, anatomia e farmácia, acessível em formato offline e com imagens. Tal como a restante Wikipédia, todo o conteúdo é de acesso livre, o que significa que pode ser livremente descarregado, reutilizado, partilhado e modificado.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

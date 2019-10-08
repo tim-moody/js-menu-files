@@ -2,18 +2,11 @@
   "name": "en-osm-omt_central_america",
   "lang": "en",
   "intended_use": "map",
-  "zim_name": null,
-  "moddir": null,
-  "start_url": null,
   "title": "OpenStreetMap: Central America-Caribbean & Earth",
   "logo_url": "osm.jpg",
   "description": "19 levels of zoom (~1 m details) for Central America-Caribbean, illustrating human geography.<p>10 levels of zoom (~1 km details) for satellite photos, covering the whole world.",
   "extra_description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide.",
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

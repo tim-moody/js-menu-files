@@ -2,18 +2,12 @@
   "name": "en-kalite-ess",
   "lang": "en",
   "intended_use": "kalite",
-  "zim_name": null,
   "moddir": "en-kalite-ess",
   "start_url": "learn/khan/math/",
   "title": "Khan Academy Lite Essentials",
   "logo_url": "en-kalite-ess.png",
   "description": "Offline version of Khan Academy.<BR><BR>Khan Academy is a non-profit educational organization created in 2006 by educator Salman Khan with the aim of providing a free, world-class education for anyone, anywhere.<BR><BR> This collection excludes humanities, test-prep, and partner-content, as well as some region-specific math lessons for particular school districts.",
-  "extra_description": null,
   "extra_html": "en-kalite-ess.html",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

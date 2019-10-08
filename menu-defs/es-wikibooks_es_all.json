@@ -3,17 +3,10 @@
   "lang": "es",
   "intended_use": "zim",
   "zim_name": "wikibooks_es_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Wiki Libros",
   "logo_url": "es-wikibooks.png",
   "description": "Una colección de libros de texto gratuitos para uso educativo, creado y mantenido por los usuarios, para los usuarios. Este contenido es proporcionado por Kiwix.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

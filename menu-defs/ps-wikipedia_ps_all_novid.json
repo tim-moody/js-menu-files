@@ -3,17 +3,10 @@
   "lang": "ps",
   "intended_use": "zim",
   "zim_name": "wikipedia_ps_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "ويکيپېډيا په پښتو",
   "logo_url": "Wikipedia-logo-v2-ps.png",
   "description": "په پښتو ويکيپېډيا کي د ليکنو يوه بشپړه مجموعه او د پلټنې وړ بڼه په آنلاین ډول چي منځپانګې ته خلاص لاس رسی ولري، پدې مانا چې دا وړیا ده چې ډاونلوډ يي کړي، او د بیا کارولو، شریکولو او جوړولو لپاره يي هم بڼه وړیا وي. زموږ سره یوځای شئ او بله نسخه هم غوره کړئ",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

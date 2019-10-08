@@ -2,18 +2,12 @@
   "name": "en-healthphone_or",
   "lang": "or",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "healthphone/or",
   "title": "ଓଡ଼ିଆ (Odia): HealthPhone Health and Nutrition Video Collection & Apps",
   "logo_url": "healthphone.jpg",
   "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

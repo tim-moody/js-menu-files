@@ -3,17 +3,10 @@
   "lang": "bn",
   "intended_use": "zim",
   "zim_name": "wikipedia_bn_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "বাংলা উইকিপিডিয়া",
   "logo_url": "Wikipedia-logo-v2-bn.png",
   "description": "অফলাইন ও অনুসন্ধানযোগ্য ফর্ম্যাটে বাংলা উইকিপডিয়ার নিবন্ধের একটি সম্পূর্ণ সংকলন। বিষয়বস্তু মুক্ত প্রবেশাধিকারযুক্ত, অর্থাৎ এটি ডাউনলোড, পুনর্ব্যবহার, সকলের সঙ্গে ভাগ এবং নির্মাণের জন্য মুক্ত। আমাদের সঙ্গে যুক্ত হয়ে এর নতুন সংস্করণকে আরো উন্নত করুন।",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

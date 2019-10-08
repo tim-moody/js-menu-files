@@ -3,17 +3,10 @@
   "lang": "mr",
   "intended_use": "zim",
   "zim_name": "wikipedia_mr_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "मराठीत विकिपीडिया",
   "logo_url": "Wikipedia-logo-v2-mr.png",
   "description": "ऑफलाइन आणि शोधण्यायोग्य स्वरूपात मराठी विकिपीडियाच्या लेखांचा संपूर्ण संच. सामग्री प्रत्येकासाठी उपलब्ध आहे, ज्याचा अर्थ आपण ती डाउनलोड, पुन्हा वापरणे, सामायिक करणे आणि तयार करणे विनामूल्य आहे. आमच्यात सामील व्हा आणि पुढील आवृत्ती आणखी चांगल्या करण्यास सहभागी व्हा.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

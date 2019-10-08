@@ -2,18 +2,12 @@
   "name": "en-wordpress",
   "lang": "en",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "wordpress",
   "title": "WordPress",
   "logo_url": "wordpress-icon3.png",
   "description": "Write a personal article (or post photographs) to share with your community!",
-  "extra_description": null,
   "extra_html": "en-wordpress.html",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -2,18 +2,11 @@
   "name": "en-map_test",
   "lang": "en",
   "intended_use": "map",
-  "zim_name": null,
-  "moddir": null,
   "start_url": "maplist",
   "title": "OpenStreetMap Test Page",
   "logo_url": "osm.jpg",
   "description": "To install a Map Pack for a continent or the entire world, use <a href=http://box.lan/admin>Admin Console</a> (see <a href='/info/FAQ.html#What_are_the_default_passwords.3F'>default passwords</a>) > <b>Install Content</b> > <b>Add Map Region</b>.",
   "extra_description": "You can remove this stub from your IIAB home page using <a href=http://box.lan/admin>Admin Console</a> > <b>Manage Content</b> > <b>Content Item List</b>.<p>See also the <a href='https://github.com/iiab/iiab/wiki/IIAB-Maps'>full instructions</a> for IIAB Maps.",
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

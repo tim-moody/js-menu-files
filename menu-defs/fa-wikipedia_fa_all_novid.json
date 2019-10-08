@@ -3,17 +3,10 @@
   "lang": "fa",
   "intended_use": "zim",
   "zim_name": "wikipedia_fa_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "ویکی‌پدیا فارسی",
   "logo_url": "Wikipedia-logo-v2-fa.png",
   "description": "مجموعه کامل مقالات ویکیپدیا فارسی در فرمت آفلاین و قابل جستجو. محتوا در دسترسی آزاد است، یعنی رایگان است برای دانلود، استفاده دوباره، به اشتراک‌گذاری، و ساخت بر اساس نیاز. به ما بپیوندید و نسخه بعدی را بهتر کنید",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

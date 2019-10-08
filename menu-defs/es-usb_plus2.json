@@ -2,18 +2,12 @@
   "name": "es-usb_plus2",
   "lang": "es",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "usb",
   "title": "Inserte una Unidad USB para Publicar Archivos Aquí",
   "logo_url": "content.jpg",
   "description": "Maestros y Bibliotecarios: los folletos de su clase (contenido en PDF, fotos, avisos públicos, etc) <a href=/usb>Aparecerán Inmediatamente Aquí</a> después de insertar una unidad USB o disco duro USB en Internet-in-a-Box.<p>Por último: no dude en quitar físicamente su memoria USB en cualquier momento, después de que los usuarios de Wi-Fi hayan descargado lo que necesitan de usted.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

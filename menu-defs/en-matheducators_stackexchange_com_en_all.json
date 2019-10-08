@@ -3,7 +3,6 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "matheducators.stackexchange.com_en_all",
-  "moddir": null,
   "start_url": "",
   "title": "Mathematics Educators Stack Exchange",
   "logo_url": "stackexchange.png",
@@ -11,9 +10,6 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

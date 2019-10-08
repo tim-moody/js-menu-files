@@ -4,16 +4,9 @@
   "intended_use": "zim",
   "zim_name": "wikisource_fr_all",
   "moddir": "fr-wikisource",
-  "start_url": null,
   "title": "Wikisource en français",
   "logo_url": "fr-wikisource.png",
   "description": "La bibliothèque gratuite que tout le monde peut améliorer.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

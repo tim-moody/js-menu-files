@@ -2,18 +2,11 @@
   "name": "en-owncloud",
   "lang": "en",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "owncloud",
   "title": "Owncloud",
   "logo_url": "owncloud.jpg",
   "description": "A safe home for all your data. Access and share your files, calendars, contacts, mail and more from any device, on your terms.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

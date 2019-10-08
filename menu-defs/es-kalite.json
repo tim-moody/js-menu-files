@@ -2,7 +2,6 @@
   "name": "es-kalite",
   "lang": "en",
   "intended_use": "kalite",
-  "zim_name": null,
   "moddir": "es-kalite",
   "start_url": "/learn/khan/",
   "title": "Khan Academy",
@@ -11,9 +10,6 @@
   "extra_description": "",
   "extra_html": "es-kalite.html",
   "footnote": "Tamaño: 23G, Videos: 4399, Subtítulos: 838, Cuestionarios: 4109, Fecha: agosto 2017",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

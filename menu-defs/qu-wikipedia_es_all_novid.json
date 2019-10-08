@@ -3,17 +3,9 @@
   "lang": "qu",
   "intended_use": "zim",
   "zim_name": "wikipedia_qu_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikipedia en Quechua (Qispi Insiklupidiya)",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Wikipedia es la enciclopedia más grande del mundo, creado, moderado, y editado por los usuarios para los usuarios. Esta enciclopedia en Quechua tiene más de 20 224 de artículos con ilustraciones y está libremente disponible para cualquier persona, en cualquier lugar.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -2,18 +2,11 @@
   "name": "ht-hesperian_educavision_health",
   "lang": "ht",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "ht-hesperian_educavision_health",
-  "start_url": null,
   "title": "Sante Gid Hesperian nan Ayisyen Kreyòl",
   "logo_url": "hesperianlogo.png",
   "description": "Fasil yo konprann gid, pratik, egzat ak trè ilistre sou pwoblèm sante nan zòn rekile kote aksè nan pèsonèl medikal yo ak fasilite yo limite.",
-  "extra_description": null,
   "extra_html": "ht-hesperian_educavision_health.html",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -3,17 +3,10 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikiversity_en_all",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikiversity",
   "logo_url": "en-wikiversity.png",
   "description": "Wikiversity is a Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. We invite teachers, students, and researchers to join us in creating open educational resources and collaborative learning communities. To learn more about Wikiversity, try a guided tour, learn about adding content, or start editing now.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

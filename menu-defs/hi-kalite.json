@@ -2,18 +2,11 @@
   "name": "hi-kalite",
   "lang": "fr",
   "intended_use": "kalite",
-  "zim_name": null,
   "moddir": "in-kalite",
-  "start_url": null,
   "title": "Khan Academy in Hindi",
   "logo_url": "es-kalite.png",
   "description": "KA Lite videos and lessons in Hindi.",
-  "extra_description": null,
   "extra_html": "",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

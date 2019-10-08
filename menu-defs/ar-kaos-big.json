@@ -2,18 +2,10 @@
   "name": "ar-kaos-big",
   "lang": "ar",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "ar-kaos-big",
-  "start_url": null,
   "title": "أكاديمية خان",
   "logo_url": "kaos.png",
   "description": "أكثر من 1800 أشرطة الفيديو على الرياضيات والعلوم، من الأساسي إلى مرحلة متقدمة. جميع محتوى خان أكاديمية متاح مجانا على <a href='http://www.khanacademy.org/'>www.khanacademy.org</a>",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -2,18 +2,11 @@
   "name": "es-local_content",
   "lang": "es",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "local_content",
   "title": "Nuestros Materiales",
   "logo_url": "content.jpg",
   "description": "Materiales recolectados por tus maestros para la escuela",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -3,17 +3,11 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikibooks_en_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikibooks",
   "logo_url": "en-wikibooks.png",
   "description": "Open books for an open world: e-book textbooks from Wikipedia, that anyone can edit.",
-  "extra_description": null,
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

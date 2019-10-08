@@ -3,17 +3,12 @@
   "lang": "es",
   "intended_use": "zim",
   "zim_name": "wikiquote_es_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikiquote",
   "logo_url": "Ncwikiquote2.png",
   "description": "La colección de citas donde tú puedes colaborar.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

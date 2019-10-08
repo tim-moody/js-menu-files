@@ -2,18 +2,10 @@
   "name": "es-dr_PAI",
   "lang": "es",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "es-dr_PAI",
-  "start_url": null,
   "title": "Programa Ampliado de Inmunización &bull; Ministerio de Salud Pública &bull; República Dominicana",
   "logo_url": "logopai2.png",
   "description": "El PAI, Programa Ampliado de Inmunización, incorporó las vacunas contra las seis principales enfermedades consideradas de alta letalidad para la población infantil, como la difteria, coqueluche, tétanos, poliomielitis, tuberculosis y sarampión, las cuales se aplican de manera gratuitas, como garantía del Estado al ser un derecho de la población y un deber de éste de mantener su financiamiento.",
-  "extra_description": null,
-  "extra_html": null,
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

@@ -2,18 +2,12 @@
   "name": "en-usb_plus_ng",
   "lang": "en",
   "intended_use": "webroot",
-  "zim_name": null,
   "moddir": "",
   "start_url": "usb",
   "title": "SAT Prep & YouTube Videos",
   "logo_url": "content.jpg",
   "description": "",
-  "extra_description": null,
   "extra_html": "en-usb_plus_ng.html",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

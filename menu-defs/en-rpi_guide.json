@@ -2,18 +2,11 @@
   "name": "en-rpi_guide",
   "lang": "en",
   "intended_use": "html",
-  "zim_name": null,
   "moddir": "en-rpi_guide",
-  "start_url": null,
   "title": "Raspberry Pi Beginner's Guide & User Guide",
   "logo_url": "en-rpi_guide.png",
   "description": "By Eben Upton and Gareth Halfacree.",
-  "extra_description": null,
-  "extra_html": null,
   "footnote": "Size: 79M, PDFs: 4, Date: 2012-2018",
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }

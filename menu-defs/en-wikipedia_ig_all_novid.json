@@ -3,17 +3,10 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikipedia_ig_all_novid",
-  "moddir": null,
-  "start_url": null,
   "title": "Wikipedia in Igbo",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Searchable encyclopedia including 1,357 articles and 1,171 illustrations, from August 2017.",
-  "extra_description": null,
   "extra_html": "en-wikipedia_ig_all_novid.html",
-  "footnote": null,
-  "edit_status": null,
-  "commit_sha": null,
-  "previous_commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
