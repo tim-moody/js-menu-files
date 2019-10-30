@@ -3,10 +3,14 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "tes",
+  "start_url": "",
   "title": "Test ZIM File",
   "logo_url": "KiwixLogoVertical2.svg.png",
   "description": "Can be used to verify that the Kiwix server is working.",
+  "extra_description": "This extra description was added on VM",
   "extra_html": "",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-10-30"
 }
