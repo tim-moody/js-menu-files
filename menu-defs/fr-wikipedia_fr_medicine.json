@@ -3,10 +3,14 @@
   "lang": "fr",
   "intended_use": "zim",
   "zim_name": "wikipedia_fr_medicine",
+  "start_url": "",
   "title": "Encyclopédie médicale hors ligne de Wikipedia",
   "logo_url": "medwiki.png",
   "description": "Une collection complète de tous les sujets liés aux soins de santé, à l'anatomie et aux médicaments de Wikipedia dans un format hors ligne.<BR>Comme tout le contenu de Wikipédia est un accès libre, ce qui signifie qu'il est gratuit à télécharger, réutiliser, partager et exploiter.",
+  "extra_description": "This extra description was added on VM",
   "extra_html": "",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-10-30"
 }
